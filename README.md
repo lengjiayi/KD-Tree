@@ -14,4 +14,4 @@ Visualization.jar can be used in following way:
 
 here's an example using ./testfile/R1.txt
 
-![](/assets/example.png)
+![](/assets/example.PNG)
